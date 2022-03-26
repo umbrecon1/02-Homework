@@ -75,6 +75,27 @@ article {
     margin-left: 20px;
 }
 
+
+article section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+
+article section img{
+    max-height: 200px;
+}
+
+
+article section h2 h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -102,34 +123,15 @@ aside img {
     max-width: 150px;
 }
 
-article section {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
 
-article section img{
-    max-height: 200px;
-}
-
-
-article section h2 h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
